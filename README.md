@@ -13,4 +13,4 @@ Project Duration: 4 months
 
   Creating a persona: 
    <img width="915" alt="petero" src="https://github.com/user-attachments/assets/319bd7c8-b844-4a74-b2f9-533ad95f8ce7" />
-<img width="909" alt="cipa" src="https://github.com/user-attachments/assets/290316f4-b256-43fb-a342-6ae8413b8ce3" />
+
