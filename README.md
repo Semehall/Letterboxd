@@ -28,13 +28,13 @@ To address these challenges, this redesign enhances navigation, accessibility, a
                 <li>**Accessibility Advocates** – Users needing features like text-to-speech, customizable fonts, and color contrast.</li>
 
                  <h3>Key Questions</h3>
-            <p>During user interviews, I asked:</p>
+            During user interviews, I asked:
          
-                How often do you use Letterboxd?</li>
-                What **accessibility** challenges have you faced?
-                Would you use **text-to-speech** for reading reviews?
-                How important is having a **light mode**?
-               Would a **TV show tracking feature** improve your experience?
+                How often do you use Letterboxd?
+                What accessibility challenges have you faced?
+                Would you use text-to-speech for reading reviews?
+                How important is having a light mode?
+               Would a TV show tracking feature improve your experience?
          
 
 
