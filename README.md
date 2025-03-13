@@ -44,17 +44,17 @@ To address these challenges, this redesign enhances navigation, accessibility, a
 
 
 <h3> Competitor Analysis </h3>
- <h4>DirectCompetitors </h4>
+ <h4>Direct Competitors </h4>
  <li>IMDb – Extensive database, lacks social engagement.</li>
 <li>RottenTomatoes – Credible ratings, limited personalization.</li>
 <li>Trakt – Seamless tracking, weak social experience.</li>
 
-<h4>IndirectCompetitors</h4>
+<h4>Indirect Competitors</h4>
 <li>Goodreads – Strong review & community engagement.</li>
 <li>SpotifyWrapped – Gamified insights & recaps.</li>
 <li>TikTokFilmCommunity – Engaging but lacks structured tracking.</li>
 
-<h4>OpportunitiesForLetterboxd</h4>
+<h4>Opportunities For Letterboxd</h4>
 <li>IRecommendations – Smarter film discovery.</li>
 <li>InteractivePolls – Engage users in decision-making.</li>
 <li>CommunityDrivenFeatures – Discussions, live watch parties & more!</li>
@@ -131,6 +131,45 @@ The Create a Poll feature adds a dynamic way for users to engage with the commun
 - **Open-Ended Questions**: Allows users to type responses for broader discussions.
 
 This feature enhances social interaction on Letterboxd, making movie discussions fun, fast, and community-driven
+
+<h2>Phase 3: High-Fidelity Design </h2>
+
+
+https://github.com/user-attachments/assets/3ba8df33-8e4f-4433-906c-217d7d93b05a
+
+
+<h2>Phase 4: Accessibility Improvements </h2>
+
+Text-to-Speech for Reviews – Converts long reviews into audio, allowing users to listen instead of read, improving accessibility for visually impaired users or those who prefer hands-free browsing.
+Light & Dark Mode Toggle – Users can switch between light and dark mode, reducing eye strain and improving visibility in different lighting conditions.
+Adjustable Text Sizes – Introduced the ability to customize font sizes, making the interface more readable for users with low vision or dyslexia.
+High-Contrast Mode – Enhanced UI contrast to improve legibility for users with color blindness or visual impairments.
+Clearer Navigation & Labels – Improved button placement, UI hierarchy, and descriptive labels for better screen reader support.
+
+<h2>Final Outcome</h2>
+
+The redesigned Letterboxd platform provides a more intuitive, accessible, and personalized experience for movie lovers. By incorporating user feedback and iterating on design improvements, the new UI/UX enables:
+
+TV Show Support – Users can now log and review episodic content.
+Light Mode Option – Reduces eye strain and enhances readability.
+Enhanced Navigation – Improved UI structure for faster content discovery.
+Yearly Goal Progress Tracker – Gamifies engagement and keeps users motivated.
+Interactive Poll Feature – Enables users to engage with the community in real-time.
+Accessibility Features – Text-to-speech, font customization, and better contrast options.
+
+
+
+<h2>Key Learnings</h2>
+
+User Feedback is Everything – Small usability tweaks (like adding light mode) significantly improve engagement.
+Balance Aesthetics & Functionality – A beautiful UI should still feel intuitive and efficient.
+Community-Driven Features Enhance Retention – Features like polls and yearly goals drive more user interaction.
+Accessibility is Non-Negotiable – Features like text-to-speech & font scaling make Letterboxd more inclusive.
+Iteration is Key – Multiple testing rounds & feedback loops helped refine the final design.
+
+
+
+
 
 
 
