@@ -1,4 +1,4 @@
-#Letteboxd Redesign 
+#Letteboxd Redesign(h1)
 ##Case Study: Redesigning Letterboxd for a More Inclusive & User-Friendly Experience
 
 
