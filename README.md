@@ -13,6 +13,7 @@ Have you ever wanted to log a TV show on Letterboxd, only to realize the platfor
 To address these challenges, this redesign enhances navigation, accessibility, and content expansion while preserving Letterboxd’s core identity.
 
 <h3>Project Duration: 2 months</h3> 
+<h2>Phase 1: User Research </h2>
 
 
 <h3>Creating a persona:</h3>
