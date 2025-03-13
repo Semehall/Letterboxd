@@ -13,7 +13,9 @@ Have you ever wanted to log a TV show on Letterboxd, only to realize the platfor
 To address these challenges, this redesign enhances navigation, accessibility, and content expansion while preserving Letterboxd’s core identity.
 
 <h3>Project Duration: 2 months</h3> 
-<h2>Phase 1: User Research </h2>
+<h2>Phase 1: Define </h2>
+<h3>Empathy Map![Empathy Maps -1](https://github.com/user-attachments/assets/07863178-1398-4f1a-8b85-b5f22044c8bc)
+</h3>
 
 
 <h3>Creating a persona:</h3>
@@ -34,6 +36,9 @@ To address these challenges, this redesign enhances navigation, accessibility, a
                <li> Would you use text-to-speech for reading reviews?</li>
                 <li>How important is having a light mode?</li>
               <li> Would a TV show tracking feature improve your experience?</li>
+
+
+              
          
          
 
