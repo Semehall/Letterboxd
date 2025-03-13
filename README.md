@@ -1,3 +1,5 @@
+
+
 <h1> Letteboxd Redesign</h1>
 <h2>Case Study: Redesigning Letterboxd for a More Inclusive & User-Friendly Experience. </h2>
 
@@ -39,13 +41,85 @@ To address these challenges, this redesign enhances navigation, accessibility, a
                <li> Would you use text-to-speech for reading reviews?</li>
                 <li>How important is having a light mode?</li>
               <li> Would a TV show tracking feature improve your experience?</li>
-              <img width="749" alt="Screenshot 2025-03-12 at 9 21 45 PM" src="https://github.com/user-attachments/assets/86861029-f0d4-4e95-9e15-3d71df58c8a0" />
+
+
+<h2>Profile Page Sketches, Wireframes & Prototypes</h2><img width="250" alt="ss4" src="https://github.com/user-attachments/assets/5e6d4062-f093-4658-91d3-a65cea96aa55" /> 
+<img width="201" alt="ss7" src="https://github.com/user-attachments/assets/5fe54257-3d7a-4a17-a334-b0ce16347cfb" />
+<img width="202" alt="ss6" src="https://github.com/user-attachments/assets/7b727437-7722-404d-8360-09f0b40b5808" />
+<img width="201" alt="ss5" src="https://github.com/user-attachments/assets/f0387aa4-f86b-4464-92c8-880167db4b26" />
+
+
+The **Letterboxd Profile page** was redesigned to provide a more **personalized, accessible, and data-driven experience**.  
+
+###  Key Improvements:
+- **Light Mode Option** – Added for better readability and user preference.  
+- **Quick Access to Watchlist,Followers & Ratings** – Users can now navigate their key stats effortlessly.  
+- **Yearly Goal Progress Bar** – Track and visualize your **annual movie-watching goals.**
+- **Interactive Poll Feature** – A new **poll bar** next to the profile picture allows users to post and engage with community polls.  
+- **Rating Distribution Graph** – Provides a clear **overview of rating patterns** to see how you rated films over time.  
+
+This redesign ensures **a more engaging, user-friendly, and goal-oriented experience** for film lovers.   
+
+ <h2>Search Page Sketches, Wireframes & Prototypes</h2>
+ <img width="250" alt="aa4" src="https://github.com/user-attachments/assets/27463b84-0f8f-4b3e-8979-7ae21b57ed49" />
+ <img width="225" alt="aa4" src="https://github.com/user-attachments/assets/5a4823ef-0b6b-4de0-8648-a48c4ba033f7" />
+ <img width="213" alt="nn2" src="https://github.com/user-attachments/assets/cff6363c-fa7c-4c0e-9935-668fa1692ffa" />
+<img width="217" alt="nn1" src="https://github.com/user-attachments/assets/5b7ddbcb-5640-406b-b3bb-60b2345549b0" />
+
+
+The **Letterboxd search page** was redesigned to improve **usability, accessibility, and content discovery**.  
+
+### Key Improvements:
+- **Light Mode Option** – Added to reduce eye strain and enhance readability.  
+- **TV Show Support** – Users can now search for and log TV shows alongside movies.  
+- **Enhanced UI** – Improved layout with more visuals for a modern, engaging experience.  
+
+This redesign makes **finding and exploring content** **faster, clearer, and more user-friendly**.  
+
+
+ <h2>Home Page Sketches, Wireframes & Prototypes</h2>
+<img width="222" alt="ss2 2" src="https://github.com/user-attachments/assets/6216b7d6-b8a6-49c3-a74d-0de5503f1774" />
+<img width="209" alt="ww1" src="https://github.com/user-attachments/assets/c93ade21-84ac-410b-b14e-1abbe2d67184" />
+
+ <img width="208" alt="aa2" src="https://github.com/user-attachments/assets/5dc01877-7c1b-46e7-887c-eac13abc799e" />
+ <img width="205" alt="aa1" src="https://github.com/user-attachments/assets/6b1e2778-0067-4a68-bbbb-b8791502a8ee" />
+ 
+ 
+
+The **Letterboxd home page** was redesigned to improve **usability, accessibility, and content discovery**.  
+
+### Key Improvements:
+- **Light Mode Option** – Added to reduce eye strain and enhance readability.  
+- **TV Show Support** – Users can now search for and log TV shows alongside movies.  
+- **Enhanced UI** – Improved layout with more visuals for a modern, engaging experience.  
+
+This redesign makes **finding and exploring content** **faster, clearer, and more user-friendly**.  
+
+
+## <h2>Create a Poll Page - Sketches, Wireframes & Prototypes (New Feature Added)</h2> 
+<img width="296" alt="cc6" src="https://github.com/user-attachments/assets/66e0474f-66c9-48e6-afd8-6275d03c8108"/>
+<img width="206" alt="cc6" src="https://github.com/user-attachments/assets/cbf8933f-6054-4615-a89e-cc288e79904e" />
+<img width="201" alt="cc2" src="https://github.com/user-attachments/assets/344508d8-01ff-4d72-b2a6-f3d6ded88de6" />
+<img width="203" alt="cc1" src="https://github.com/user-attachments/assets/74d295c5-05a6-40f3-94d1-65ad8b818ad9" />
+
+
+
+The Create a Poll feature adds a dynamic way for users to engage with the community by posting interactive movie-related polls.
+
+### Key Features:
+- **Tap to Vote**: Instantly cast votes with real-time updates.
+- **Custom Polls**: Users can create personalized polls for recommendations or debates.
+- **Time-Limited Polls**: Countdown timers add urgency and drive engagement.
+- **Open-Ended Questions**: Allows users to type responses for broader discussions.
+
+This feature enhances social interaction on Letterboxd, making movie discussions fun, fast, and community-driven
 
 
 
 
- <h2>Sketches, Wireframes & Prototypes</h2><img width="297" alt="aa4" src="https://github.com/user-attachments/assets/5a4823ef-0b6b-4de0-8648-a48c4ba033f7" />
- <img width="297" alt="aa4" src="https://github.com/user-attachments/assets/efcb6500-3ed5-4c43-8592-b435e2acc076"
+
+
+
 
 
 
