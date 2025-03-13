@@ -2,7 +2,7 @@
 <h2>Case Study: Redesigning Letterboxd for a More Inclusive & User-Friendly Experience. </h2>
 
 
-<h3>**Overview:**</h3>
+<h3>Overview:</h3>
 Letterboxd is a popular social platform for movie lovers to log, review, and discover films. While widely used, the platform has usability and accessibility challenges that impact diverse users. This redesign project aimed to improve usability, accessibility, and overall user experience by addressing pain points and introducing new features, 
 including expanding support for TV shows.
 
