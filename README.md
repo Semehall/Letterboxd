@@ -13,12 +13,15 @@ Have you ever wanted to log a TV show on Letterboxd, only to realize the platfor
 To address these challenges, this redesign enhances navigation, accessibility, and content expansion while preserving Letterboxd’s core identity.
 
 <h3>Project Duration: 2 months</h3> 
+
 <h2>Phase 1: Define </h2>
- <img width="400" alt="petero" src="https://github.com/user-attachments/assets/6d5fd16e-7a8e-43f7-ae8e-6727d8cec4b9" />
 
 <h3>Creating a persona:</h3>
    <img width="915" alt="petero" src="https://github.com/user-attachments/assets/319bd7c8-b844-4a74-b2f9-533ad95f8ce7" />
    
+ <h3>Empathy Map:</h3>
+
+ <img width="400" alt="petero" src="https://github.com/user-attachments/assets/6d5fd16e-7a8e-43f7-ae8e-6727d8cec4b9" />  
  <h3>User Research & Insights</h3>
  <h3>User Segments</h3>
             <p>Through research, I identified three key user groups:</p>
