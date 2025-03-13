@@ -7,14 +7,14 @@ Letterboxd is a popular social platform for movie lovers to log, review, and dis
 including expanding support for TV shows.
 
 
-<h3>**Problem Statement:**</h3>
+<h3>Problem Statement:</h3>
 Have you ever wanted to log a TV show on Letterboxd, only to realize the platform doesn’t support episodic content? While Letterboxd is a favorite among film lovers, its lack of TV show tracking leaves users frustrated. Additionally, the absence of light mode and accessibility features like text-to-speech make the platform harder to use for diverse audiences.
 
 To address these challenges, this redesign enhances navigation, accessibility, and content expansion while preserving Letterboxd’s core identity.
 
-<h3>**Project Duration: 2 months**</h3> 
+<h3>Project Duration: 2 months</h3> 
 
 
-<h3> **Creating a persona:**</h3>
+<h3>Creating a persona:</h3>
    <img width="915" alt="petero" src="https://github.com/user-attachments/assets/319bd7c8-b844-4a74-b2f9-533ad95f8ce7" />
 
