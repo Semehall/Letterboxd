@@ -1,5 +1,5 @@
 <h1> Letteboxd Redesign</h1>
-Case Study: Redesigning Letterboxd for a More Inclusive & User-Friendly Experience
+<h2>Case Study: Redesigning Letterboxd for a More Inclusive & User-Friendly Experience. </h2>
 
 
 **Overview:**
