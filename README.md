@@ -14,30 +14,6 @@ To address these challenges, this redesign enhances navigation, accessibility, a
 
 <h3>Project Duration: 2 months</h3> 
 
-<h2>Phase 1: Define </h2>
-
-<h3>Creating a persona:</h3>
-   <img width="915" alt="petero" src="https://github.com/user-attachments/assets/319bd7c8-b844-4a74-b2f9-533ad95f8ce7" />
-   
- <h3>Empathy Map:</h3>
- Understanding user behavior and motivations.
-
- <img width="400" alt="petero" src="https://github.com/user-attachments/assets/6d5fd16e-7a8e-43f7-ae8e-6727d8cec4b9" />  
- <h3>User Research & Insights</h3>
- <h3>User Segments</h3>
-            <p>Through research, I identified three key user groups:</p>
-            <ul>
-                <li>Movie Enthusiasts – Users who only log movies and have no need for TV show tracking.</li>
-                <li>TV & Movie Watchers– Users who want a unified platform for movies and TV shows.</li>
-                <li>Accessibility Advocates – Users needing features like text-to-speech, customizable fonts, and color contrast.</li>
-<h3>Key Questions</h3>
-<p>During user interviews, I asked:</p>
-            <ul>
-               <li>How often do you use Letterboxd?</li>
-               <li> What accessibility challenges have you faced?</li>
-               <li> Would you use text-to-speech for reading reviews?</li>
-                <li>How important is having a light mode?</li>
-              <li> Would a TV show tracking feature improve your experience?</li>
 
 
               
