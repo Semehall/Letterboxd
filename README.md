@@ -16,7 +16,7 @@ To address these challenges, this redesign enhances navigation, accessibility, a
 
 <h3>Project Duration: 2 months</h3> 
 
-<h2>Phase 1: Define </h2>
+<h2>Phase 1: Define and Research </h2>
 
 <h3>Creating a persona:</h3>
    <img width="915" alt="petero" src="https://github.com/user-attachments/assets/319bd7c8-b844-4a74-b2f9-533ad95f8ce7" />
@@ -42,6 +42,24 @@ To address these challenges, this redesign enhances navigation, accessibility, a
                 <li>How important is having a light mode?</li>
               <li> Would a TV show tracking feature improve your experience?</li>
 
+
+<h3> Competitor Analysis </h3>
+ <h4>DirectCompetitors </h4>
+ <li>IMDb – Extensive database, lacks social engagement.</li>
+<li>RottenTomatoes – Credible ratings, limited personalization.</li>
+<li>Trakt – Seamless tracking, weak social experience.</li>
+
+<h4>IndirectCompetitors</h4>
+<li>Goodreads – Strong review & community engagement.</li>
+<li>SpotifyWrapped – Gamified insights & recaps.</li>
+<li>TikTokFilmCommunity – Engaging but lacks structured tracking.</li>
+
+<h4>OpportunitiesForLetterboxd</h4>
+<li>IRecommendations – Smarter film discovery.</li>
+<li>InteractivePolls – Engage users in decision-making.</li>
+<li>CommunityDrivenFeatures – Discussions, live watch parties & more!</li>
+
+<h2>Phase 2: Sketches, Wireframes & Prototypes </h2>
 
 <h2>Profile Page Sketches, Wireframes & Prototypes</h2><img width="250" alt="ss4" src="https://github.com/user-attachments/assets/5e6d4062-f093-4658-91d3-a65cea96aa55" /> 
 <img width="201" alt="ss7" src="https://github.com/user-attachments/assets/5fe54257-3d7a-4a17-a334-b0ce16347cfb" />
