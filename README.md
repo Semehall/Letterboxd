@@ -23,9 +23,9 @@ To address these challenges, this redesign enhances navigation, accessibility, a
  <h3>User Segments</h3>
             <p>Through research, I identified three key user groups:</p>
             <ul>
-                <li>Movie Enthusiasts** – Users who only log movies and have no need for TV show tracking.</li>
-                <li>TV & Movie Watchers**– Users who want a unified platform for movies and TV shows.</li>
-                <li>**Accessibility Advocates** – Users needing features like text-to-speech, customizable fonts, and color contrast.</li>
+                <li>Movie Enthusiasts – Users who only log movies and have no need for TV show tracking.</li>
+                <li>TV & Movie Watchers– Users who want a unified platform for movies and TV shows.</li>
+                <li>Accessibility Advocates – Users needing features like text-to-speech, customizable fonts, and color contrast.</li>
 <h3>Key Questions</h3>
 <p>During user interviews, I asked:</p>
             <ul>
