@@ -61,7 +61,7 @@ The **Letterboxd Profile page** was redesigned to provide a more **personalized,
 This redesign ensures **a more engaging, user-friendly, and goal-oriented experience** for film lovers.   
 
  <h2>Search Page Sketches, Wireframes & Prototypes</h2>
- <img width="250" alt="aa4" src="https://github.com/user-attachments/assets/27463b84-0f8f-4b3e-8979-7ae21b57ed49" />
+ <img width="210" alt="aa4" src="https://github.com/user-attachments/assets/27463b84-0f8f-4b3e-8979-7ae21b57ed49" />
  <img width="225" alt="aa4" src="https://github.com/user-attachments/assets/5a4823ef-0b6b-4de0-8648-a48c4ba033f7" />
  <img width="213" alt="nn2" src="https://github.com/user-attachments/assets/cff6363c-fa7c-4c0e-9935-668fa1692ffa" />
 <img width="217" alt="nn1" src="https://github.com/user-attachments/assets/5b7ddbcb-5640-406b-b3bb-60b2345549b0" />
