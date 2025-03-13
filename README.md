@@ -14,8 +14,9 @@ To address these challenges, this redesign enhances navigation, accessibility, a
 
 <h3>Project Duration: 2 months</h3> 
 <h2>Phase 1: Define </h2>
-<h3>Empathy Map![Empathy Maps -1](https://github.com/user-attachments/assets/07863178-1398-4f1a-8b85-b5f22044c8bc)
-</h3>
+<h3>Empathy Map!</h3>
+<img width="915" alt="empathy map" src="![Empathy Maps -1](https://github.com/user-attachments/assets/bcd1268e-4b3f-4502-a3b7-ecf9b6f19920)/>
+
 
 
 <h3>Creating a persona:</h3>
