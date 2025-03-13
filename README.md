@@ -39,6 +39,16 @@ To address these challenges, this redesign enhances navigation, accessibility, a
                <li> Would you use text-to-speech for reading reviews?</li>
                 <li>How important is having a light mode?</li>
               <li> Would a TV show tracking feature improve your experience?</li>
+              <img width="749" alt="Screenshot 2025-03-12 at 9 21 45 PM" src="https://github.com/user-attachments/assets/86861029-f0d4-4e95-9e15-3d71df58c8a0" />
+
+
+
+
+ <h2>Sketches, Wireframes & Prototypes</h2><img width="297" alt="aa4" src="https://github.com/user-attachments/assets/5a4823ef-0b6b-4de0-8648-a48c4ba033f7" />
+ <img width="297" alt="aa4" src="https://github.com/user-attachments/assets/efcb6500-3ed5-4c43-8592-b435e2acc076"
+
+
+
 
 
 
